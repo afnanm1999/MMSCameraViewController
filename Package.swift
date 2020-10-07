@@ -4,6 +4,7 @@ import PackageDescription
 
 let package = Package(
     name: "MMSCameraViewController",
+    defaultLocalization: "en",
     products: [
         .library(
             name: "MMSCameraViewController",

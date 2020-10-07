@@ -6,7 +6,7 @@
 //
 //
 
-import Foundation
+import UIKit
 
 internal func isDeviceOrientationPortrait() -> Bool {
 
