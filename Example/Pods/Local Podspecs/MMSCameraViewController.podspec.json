@@ -15,7 +15,7 @@
     "git": "https://github.com/miller-ms/MMSCameraViewController.git",
     "tag": "1.4.0"
   },
-  "swift_version": "4.2",
+  "swift_versions": "4.2",
   "platforms": {
     "ios": "8.0"
   },
@@ -25,5 +25,6 @@
     "UIKit",
     "AVFoundation",
     "Foundation"
-  ]
+  ],
+  "swift_version": "4.2"
 }

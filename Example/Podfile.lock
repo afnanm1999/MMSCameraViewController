@@ -7,7 +7,7 @@ DEPENDENCIES:
   - SwiftLint
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - SwiftLint
 
 EXTERNAL SOURCES:
@@ -15,9 +15,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  MMSCameraViewController: 2f854543eeba7c0f9824249bda47732d8fd51968
+  MMSCameraViewController: d891adb1ec7497c6ed42bfc7220bdbe58051c2b1
   SwiftLint: 3207c1faa2240bf8973b191820a116113cd11073
 
 PODFILE CHECKSUM: ac83409aba37d426f49e86da797fd8d2589b475b
 
-COCOAPODS: 1.6.0
+COCOAPODS: 1.9.3
