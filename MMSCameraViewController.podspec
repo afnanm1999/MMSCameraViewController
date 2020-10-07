@@ -23,8 +23,8 @@ MMSCameraViewController provides the feature for presenting a camera to capture 
   s.swift_version = '4.2'
   s.platform = :ios, '9.0'
   s.ios.deployment_target = '8.0'
-  s.source_files = 'Sources/Classes/**/*.swift'
-  s.resources = 'Sources/Assets/**/*'
+  s.source_files = 'Sources/MMSCameraViewController/Classes/**/*.swift'
+  s.resources = 'Sources/MMSCameraViewController/Assets/**/*'
   s.frameworks = 'UIKit', 'AVFoundation', 'Foundation'
 
 end
